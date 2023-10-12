@@ -122,9 +122,9 @@ If 1000 people were to start in one state, what will be the distribution of peop
 # Matrix Mystics
 ### Module 3
 1. Use Geogebra:
-Draw the vector $\begin{bmatrix}1 \\
+Draw the vector $$\begin{bmatrix}1 \\
 1 \\
-\end{bmatrix}$. Find out all those vectors which are perpendicular to this vector.
+\end{bmatrix}$$. Find out all those vectors which are perpendicular to this vector.
 
 2. Do you observe that we are asking for vectors $\begin{bmatrix}x \\
 y \\
