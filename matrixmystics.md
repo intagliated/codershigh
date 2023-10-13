@@ -9,6 +9,8 @@ permalink: /matrixmystics/
 {:toc}
 # Module 1
 
+___
+
 0. Ram and Lakshman were two brothers, Ram's pocket money was twice as much as Lakshman. The good boy that Ram and Lakshman were, they did not spend their pocket money on anything. They instead saved the same in their piggy bank. Every week, they would check their savings so far. Assume the first week's savings was $$(R_1,L_1)$$ and second week's $$(R_2,L_2)$$ and so on. They try plotting their weekly savings on a graph sheet. How will the points look like?
 
 0. Atul's house is centered at origin $$(0,0)$$ he walks straight (along the x-axis) for 2 units and then takes a left and walks 1 unit to reach Bala's house, after that he takes a right turn and walks for one unit and then a left turn and walks for one unit and reaches Chetan's house. He continues in a similar style, takes a right turn 1 unit and then left turn one unit and reaches Divya's house. Are the houses of Bala, Chetan and Divya on a straight line? What is the equation of this line? Plot this on Geogebra
@@ -119,27 +121,28 @@ If 1000 people were to start in one state, what will be the distribution of peop
 ![fig2](/codershigh/assets/markov3.png)
 If 1000 people were to start in one state, what will be the distribution of people eventually?
 
-# Matrix Mystics
-### Module 3
+# Module 3
+
+___
+
 1. Use Geogebra:
 Draw the vector $$\begin{bmatrix}1 \\
 1 \\
 \end{bmatrix}$$. Find out all those vectors which are perpendicular to this vector.
 
-2. Do you observe that we are asking for vectors $\begin{bmatrix}x \\
+2. Do you observe that we are asking for vectors $$\begin{bmatrix}x \\
 y \\
-\end{bmatrix}$ such that
-
+\end{bmatrix}$$ such that,
 $$\begin{bmatrix}x & y \\
 \end{bmatrix}  \begin{bmatrix} 1\\ 1 \\ \end{bmatrix}=0 $$
 
-3. Use Geogebra and solve the above question with $\begin{bmatrix}   1 \\
+3. Use Geogebra and solve the above question with $$\begin{bmatrix}   1 \\
 1 \\
-\end{bmatrix}$ replaced by $\begin{bmatrix}a \\
+\end{bmatrix}$$ replaced by $$\begin{bmatrix}a \\
 b \\
-\end{bmatrix}$.Use $(a,b)$ as parameters and check what happens to $(x,y)$.
+\end{bmatrix}$$.Use $$(a,b)$$ as parameters and check what happens to $$(x,y)$$.
 
-4. What is $(x,y,z)$ satisfying the following equation? (Use Geogebra)
+4. What is $$(x,y,z)$$ satisfying the following equation? (Use Geogebra)
 $$\begin{bmatrix}x & y & z\\
 \end{bmatrix}  \begin{bmatrix} 1\\ 2 \\ 3\\ \end{bmatrix}=0 $$
 
@@ -152,33 +155,34 @@ $$S= \{ \beta(2,7.3) | \beta \in \mathbb{R}\} $$
 7. Use Geogebra and plot all the points in the set below.
 $$W= \{\alpha(1,2,1) + \beta(2,7.3) | \alpha,\beta \in \mathbb{R}\} $$
 
-8. In the above set W find out all the points satisfying $(x,y,z)$ satisfying the following: (Use Geogebra)
+8. In the above set W find out all the points satisfying $$(x,y,z)$$ satisfying the following: (Use Geogebra)
 $$\begin{bmatrix}w1 & w2 & w3\\
 \end{bmatrix}  \begin{bmatrix} x\\ y \\ z\\ \end{bmatrix}=0 $$
- where $(w1,w2,w3) \in \mathbb W$
+ where $$(w1,w2,w3) \in \mathbb W$$
 
-9. Given the matrix $A=\begin{bmatrix}1 & 2 & 3\\ 4 & 5 &6\\ 7 & 8 & 9\\ \end{bmatrix}$, find out all the possible $(x,y,z)$ such that:
+9. Given the matrix $$A=\begin{bmatrix}1 & 2 & 3\\ 4 & 5 &6\\ 7 & 8 & 9\\ \end{bmatrix}$$, find out all the possible $$(x,y,z)$$ such that:
 $$ \begin{bmatrix}1 & 2 & 3\\ 4 & 5 &6\\ 7 & 8 & 9\\ \end{bmatrix} \begin{bmatrix} x\\ y\\ z\\ \end{bmatrix}=0$$
  Observe carefully, what has this question got to do with previous five questions in this module
 
-10. Given the matrix $A=\begin{bmatrix}1 & 2 & 3\\ 4 & 5 &6\\ 7 & 8 & 9\\ \end{bmatrix}$ what does the following three sets represent?
-$$R=\{\alpha(1,2,4) + \beta(4,5,6) + \gamma(7,8,9) |\alpha, \beta, \gamma\in \mathbb{R}\} $$
-$$C=\{\alpha(1,4,7) + \beta(2,5,8) + \gamma(3,6,9) | \alpha, \beta, \gamma \in \mathbb{R}\}$$
-$$N=\{(x,y,z)|x(1,4,7) + y(2,5,8) + z(3,6,9) = 0 \}$$
+10. Given the matrix $$A=\begin{bmatrix}1 & 2 & 3\\ 4 & 5 &6\\ 7 & 8 & 9\\ \end{bmatrix}$$ what does the following three sets represent?<br>
+(i) $$R=\{\alpha(1,2,4) + \beta(4,5,6) + \gamma(7,8,9) |\alpha, \beta, \gamma\in \mathbb{R}\} $$<br>
+(ii) $$C=\{\alpha(1,4,7) + \beta(2,5,8) + \gamma(3,6,9) | \alpha, \beta, \gamma \in \mathbb{R}\}$$<br>
+(iii) $$N=\{(x,y,z)|x(1,4,7) + y(2,5,8) + z(3,6,9) = 0 \}$$<br>
  Use only Geogebra :)
 
-11. Did you observe that every vector of C is perpendicular to every vector of N?
+11. Did you observe that every vector of $$C$$ is perpendicular to every vector of $$N$$?
 
-12. Consider the matrix $B=\begin{bmatrix} 1 & 2 \\ 2 & 4\\ \end{bmatrix}$. Draw the line $2y+x=4$. Seeing the matrix $B$ as a function $B:\mathbb{R^2}\mapsto \mathbb{R^2}$,<br> where does $B$ takes the line  $2y+x=4$?<br>
+12. Consider the matrix $$B=\begin{bmatrix} 1 & 2 \\ 2 & 4\\ \end{bmatrix}$$. Draw the line $$2y+x=4$$. Seeing the matrix $$B$$ as a function $$B:\mathbb{R^2}\mapsto \mathbb{R^2}$$,<br> where does $$B$$ takes the line  $$2y+x=4$$?<br>
 Where does it take:<br>
-i)$2y+x=10$<br>
-ii)$2y+x=62$<br>
-iii)$2y+x=1800$
+i)$$2y+x=10$$<br>
+ii)$$2y+x=62$$<br>
+iii)$$2y+x=1800$$
 
-13. In general $B=\begin{bmatrix} 1 & 2 \\ 2 & 4\\ \end{bmatrix}:\mathbb{R^2}\mapsto \mathbb{R^2}$, where does this function take $2y+x=k$?(where $k$ is a constant)
+13. In general $$B=\begin{bmatrix} 1 & 2 \\ 2 & 4\\ \end{bmatrix}:\mathbb{R^2}\mapsto \mathbb{R^2}$$, where does this function take $$2y+x=k$$?(where $$k$$ is a constant)
 
-14. Given $B=\begin{bmatrix} 1 & 2 \\ 2 & 4\\ \end{bmatrix}:\mathbb{R^2}\mapsto \mathbb{R^2}$. What is the range of this function?
+14. Given $$B=\begin{bmatrix} 1 & 2 \\ 2 & 4\\ \end{bmatrix}:\mathbb{R^2}\mapsto \mathbb{R^2}$$. What is the range of this function?
 
 15. You have achieved the required wisdom if you have realized that: <br>
-$B=\begin{bmatrix} 1 & 2 \\ 2 & 4\\ \end{bmatrix}:\mathbb{R^2}\mapsto \mathbb{R^2}$. <br>
-#### B collapses a dimension
+$$B=\begin{bmatrix} 1 & 2 \\ 2 & 4\\ \end{bmatrix}:\mathbb{R^2}\mapsto \mathbb{R^2}$$. <br>
+
+# Module 4
