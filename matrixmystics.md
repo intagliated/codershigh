@@ -165,12 +165,12 @@ $$ \begin{bmatrix}1 & 2 & 3\\ 4 & 5 &6\\ 7 & 8 & 9\\ \end{bmatrix} \begin{bmatri
  Observe carefully, what has this question got to do with previous five questions in this module
 
 10. Given the matrix $$A=\begin{bmatrix}1 & 2 & 3\\ 4 & 5 &6\\ 7 & 8 & 9\\ \end{bmatrix}$$ what does the following three sets represent?<br>
-(i) $$R=\{\alpha(1,2,4) + \beta(4,5,6) + \gamma(7,8,9) |\alpha, \beta, \gamma\in \mathbb{R}\} $$<br>
+(i) $$R=\{\alpha(1,2,3) + \beta(4,5,6) + \gamma(7,8,9) |\alpha, \beta, \gamma\in \mathbb{R}\} $$<br>
 (ii) $$C=\{\alpha(1,4,7) + \beta(2,5,8) + \gamma(3,6,9) | \alpha, \beta, \gamma \in \mathbb{R}\}$$<br>
 (iii) $$N=\{(x,y,z)|x(1,4,7) + y(2,5,8) + z(3,6,9) = 0 \}$$<br>
  Use only Geogebra :)
 
-11. Did you observe that every vector of $$C$$ is perpendicular to every vector of $$N$$?
+11. Did you observe that every vector of $$R$$ is perpendicular to every vector of $$N$$?
 
 12. Consider the matrix $$B=\begin{bmatrix} 1 & 2 \\ 2 & 4\\ \end{bmatrix}$$. Draw the line $$2y+x=4$$. Seeing the matrix $$B$$ as a function $$B:\mathbb{R^2}\mapsto \mathbb{R^2}$$,<br> where does $$B$$ takes the line  $$2y+x=4$$?<br>
 Where does it take:<br>
