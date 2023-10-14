@@ -6,6 +6,8 @@
 
 ![minima theme preview](/screenshot.png)
 
+$$a^2$%
+
 ## Installation
 
 Add this line to your Jekyll site's Gemfile:
