@@ -196,7 +196,15 @@ $$B=\begin{bmatrix} 1 & 2 \\ 2 & 4\\ \end{bmatrix}:\mathbb{R^2}\mapsto \mathbb{R
 3. What is  the null-space of $$M=\begin{bmatrix} 1 & 3 \\ 2 & 6 \\ end{bmatrix}$$ & the null-space of M^T?<br>
 4. <Rishabh>
 5. <Rishabh>
-
+6. 
+7. 
+8. Consider a 4x4 matrix $$M$$: $$\mathbb{R^4}\mapsto \mathbb{R^4}$$ whose range is<br>
+a> $$4-Dimension$$<br>
+b> $$3-Dimension$$ <br>
+c> $$2-Dimension$$ <br>
+d> $$1-Dimension$$ <br>
+e> $$0-Dimension$$ <br>
+Give an example each for all the above 5 cases.
 
 
 
