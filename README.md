@@ -6,7 +6,7 @@
 
 ![minima theme preview](/screenshot.png)
 
-$$a^2$%
+$$a^2$$
 
 ## Installation
 
