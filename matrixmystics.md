@@ -187,9 +187,9 @@ $$B=\begin{bmatrix} 1 & 2 \\ 2 & 4\\ \end{bmatrix}:\mathbb{R^2}\mapsto \mathbb{R
 
 # Module 4
 
-1. Given the matrix $$M=\begin{bmatrix} 1 & 3\\ 2 & 6\\ \end{bmatrix}$$. <chetan>
-2. <Maria>
-3. <Anurag>
+1. Given the matrix $$M$$.
+
+2. Note that R and N are orthogonal
 
 
 
