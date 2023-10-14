@@ -196,7 +196,7 @@ $$B=\begin{bmatrix} 1 & 2 \\ 2 & 4\\ \end{bmatrix}:\mathbb{R^2}\mapsto \mathbb{R
 3. <Anurag>
 4. <Rishabh>
 5. <Rishabh>
-
+6. <swapnil>
 
 
 
