@@ -186,3 +186,14 @@ iii)$$2y+x=1800$$
 $$B=\begin{bmatrix} 1 & 2 \\ 2 & 4\\ \end{bmatrix}:\mathbb{R^2}\mapsto \mathbb{R^2}$$. <br>
 
 # Module 4
+
+1. Given the matrix $$M$$.
+
+
+
+
+
+
+
+
+
