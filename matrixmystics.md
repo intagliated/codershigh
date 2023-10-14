@@ -187,7 +187,7 @@ $$B=\begin{bmatrix} 1 & 2 \\ 2 & 4\\ \end{bmatrix}:\mathbb{R^2}\mapsto \mathbb{R
 
 # Module 4
 
-1. 1. Given the matrix $$M=\begin{bmatrix} 1 & 3\ 2 & 6\ \end{bmatrix}$$. Use Geogebra to plot R, C & N. what do you observe?<br>
+1. 1. Given the matrix $$M=\begin{bmatrix} 1 & 3\\ 2 & 6\\ \end{bmatrix}$$. Use Geogebra to plot R, C & N. what do you observe?<br>
 
 (i) $$R=\{\alpha(1,3) + \beta(2,6) | \alpha, \beta\in \mathbb{R}\} $$<br>
 (ii) $$C=\{\alpha(1,2) + \beta(3,6) | \alpha, \beta\in \mathbb{R}\} $$<br>
