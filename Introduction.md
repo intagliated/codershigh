@@ -4,4 +4,4 @@ title: Introduction
 permalink: /codershigh/introduction/
 ---
 
-We will soon be composing an introduction for this initiaitve. 
+We will soon be composing an introduction for this initiaitve. $$a^2$%
